@@ -1,0 +1,6 @@
+Robustness experiment — RMSE comparison
+Cleaned dataset (2 outliers removed): RMSE = 123.96
+Original dataset (with 2 outliers): RMSE = 403.80
+
+Finding: only two extreme‑price rows substantially raised prediction error;
+the baseline Random‑Forest model is sensitive to such outlier cases.
