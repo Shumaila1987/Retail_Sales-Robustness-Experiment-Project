@@ -42,10 +42,12 @@ This exploratory‑machine‑learning mini‑project investigates how a standard
 ##  Repository Contents
 
 ‑ `data.py` ‑ full Python‑analysis script
-‑ `data.csv` ‑ original UCI Online Retail source file
-‑ `data_cleaned_correct.csv` ‑ prepared dataset (only negative‑price rows dropped)
 ‑ `rmse_comparison.png` ‑ RMSE‑comparison bar‑chart
 ‑ `robustness_summary.txt` ‑ short textual record of main experimental‑result values
+
+## Note:
+
+‑  data_cleaned_correct.csv : Prepared cleaned dataset ‑ too large for direct GitHub browser upload; generated locally from  data.py  using original UCI Online‑Retail source data. Original source link: UCI Machine‑Learning Repository Online Retail Dataset.
 
 ## Future Possible Extensions
 
