@@ -1,3 +1,5 @@
+# Retail‑Sales Robustness Experiment Project
+
 ## Project Overview
 This exploratory‑machine‑learning mini‑project investigates how a standard Random Forest regression model responds to real‑world data‑quality issues, focusing especially on extreme‑value outliers and missing‑value patterns in retail‑transaction data. The work supports the broader research theme: developing explainable, robust predictive‑analytics workflows for imperfect operational datasets. It uses the public UCI Online Retail dataset rather than the earlier Superstore‑based analysis, offering a second practical case‑study for my portfolio.
 
