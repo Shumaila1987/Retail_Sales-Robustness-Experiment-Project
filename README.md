@@ -46,7 +46,8 @@ This exploratory‑machine‑learning mini‑project investigates how a standard
 ‑ `robustness_summary.txt` ‑ short textual record of main experimental‑result values
 
 ## Note:
-Note:  data_cleaned_correct.csv  is the final cleaned dataset created by  data.py . It is too large to upload directly via the GitHub web‑interface. The script works from the public retail‑sales dataset originally obtained from Kaggle: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-data-set-from-ml-repository. Readers can obtain the source file from that page and run  data.py  to reproduce the cleaned‑data file locally.
+
+Note:  data_cleaned_correct.csv  is the final cleaned dataset created by  data.py . It is too large to upload directly via the GitHub web‑interface. The script works from the Online Retail Dataset originally downloaded from Kaggle: https://www.kaggle.com/datasets/ulrikthygepedersen/online‑retail‑dataset. Readers can obtain the source  online_retail.csv  file from that page and run  data.py  to reproduce the cleaned‑data file locally.
 
 ## Future Possible Extensions
 
