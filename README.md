@@ -47,7 +47,7 @@ This exploratory‑machine‑learning mini‑project investigates how a standard
 
 ## Note:
 
-‑  data_cleaned_correct.csv : Prepared cleaned dataset ‑ too large for direct GitHub browser upload; generated locally from  data.py  using original UCI Online‑Retail source data. Original source link: UCI Machine‑Learning Repository Online Retail Dataset.
+data_cleaned_correct.csv  is the final cleaned dataset created by  data.py . It is too large to upload directly via the GitHub web‑interface. The script works from the original public UCI Online Retail dataset: https://archive.ics.uci.edu/ml/datasets/Online+Retail. Readers can obtain the source file from that official page and run  data.py  to reproduce the cleaned‑data file locally.
 
 ## Future Possible Extensions
 
