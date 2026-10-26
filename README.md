@@ -34,7 +34,7 @@ This exploratory‑machine‑learning mini‑project investigates how a standard
 
 ## Data Source
 
- This robustness‑testing experiment uses a cleaned derivative of the Online Retail Dataset by Ulrik Thyge Pedersen. The original transaction‑data source is available at: https://www.kaggle.com/datasets/ulrikthygepedersen/online‑retail‑dataset. For this project, two records containing negative‑price entries were removed; the cleaned version I prepared is published at [https://www.kaggle.com/datasets/shumailazubair/cleaned-online-retail-dataset-robustness]. Both datasets are released under the CC‑BY‑4.0 licence.
+This robustness‑testing experiment uses a cleaned derivative of the Online Retail Dataset by Ulrik Thyge Pedersen. The original transaction‑data source is available at: [https://www.kaggle.com/datasets/ulrikthygepedersen/online‑retail‑dataset]. For this project, two records containing negative‑price entries were removed; the cleaned version I prepared is published at [https://www.kaggle.com/datasets/shumailazubair/cleaned-online-retail-dataset-robustness]. Both datasets are released under the CC‑BY‑4.0 licence.
 
 ##  Key Results
 
