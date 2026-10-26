@@ -32,6 +32,10 @@ This exploratory‑machine‑learning mini‑project investigates how a standard
 6. Compare test‑set RMSE scores; plot comparison chart
 7. Export cleaned‑data file, comparison‑chart image and textual‑summary record
 
+## Data Source
+
+ This robustness‑testing experiment uses a cleaned derivative of the Online Retail Dataset by Ulrik Thyge Pedersen. The original transaction‑data source is available at: https://www.kaggle.com/datasets/ulrikthygepedersen/online‑retail‑dataset. For this project, two records containing negative‑price entries were removed; the cleaned version I prepared is published at [https://www.kaggle.com/datasets/shumailazubair/cleaned-online-retail-dataset-robustness]. Both datasets are released under the CC‑BY‑4.0 licence.
+
 ##  Key Results
 
 ‑ Model on correct‑cleaned dataset (2 outliers removed): Test‑set RMSE = 123.96
